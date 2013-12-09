@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Octopress | Cokeboy Blog]]></title>
   <link href="http://cokeboy.github.io/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://cokeboy.github.io/"/>
-  <updated>2013-12-09T17:23:59+08:00</updated>
+  <updated>2013-12-09T17:31:30+08:00</updated>
   <id>http://cokeboy.github.io/</id>
   <author>
     <name><![CDATA[cokeboy]]></name>
@@ -18,7 +18,7 @@
     <link href="http://cokeboy.github.io/blog/2013/12/09/di-pian-octpressbo-ke/"/>
     <updated>2013-12-09T11:44:41+08:00</updated>
     <id>http://cokeboy.github.io/blog/2013/12/09/di-pian-octpressbo-ke</id>
-    <content type="html"><![CDATA[<h3>代码格式</h3>
+    <content type="html"><![CDATA[<h3>插入代码</h3>
 
 <p>``` coffeescript Coffeescript Tricks</p>
 

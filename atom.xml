@@ -4,7 +4,7 @@
   <title><![CDATA[Cokeboy Blog]]></title>
   <link href="http://cokeboy.github.io/atom.xml" rel="self"/>
   <link href="http://cokeboy.github.io/"/>
-  <updated>2013-12-09T17:23:59+08:00</updated>
+  <updated>2013-12-09T17:31:30+08:00</updated>
   <id>http://cokeboy.github.io/</id>
   <author>
     <name><![CDATA[cokeboy]]></name>
@@ -20,16 +20,16 @@
     <id>http://cokeboy.github.io/blog/2013/12/09/cong-zi-ran-gui-lu-dao-ruan-jian-gui-lu</id>
     <content type="html"><![CDATA[<h3>前述</h3>
 
-<pre><code>我争取在每次软件实践之前都思考以下自然界是否拥有类似的现象，这是在学校区间学会的方法，那使我smart，并有自信。
-</code></pre>
-
-<p>每个软件实践用自然现象来应证都会便得非常动人和有说服力，没有什么软件现象能比得上自然现象优美。
+<p>我争取在每次软件实践之前都思考以下自然界是否拥有类似的现象，这是在学校区间学会的方法，那使我smart，并有自信。
+每个软件实践用自然现象来应证都会便得非常动人和有说服力，没有什么软件现象能比得上自然现象优美。
 我希望能记录下一些它们直接的映射来使自己恢复那种smart的学生年代。我已经失去那份自信很久了。</p>
+
+<!--more-->
+
 
 <h3>方法论</h3>
 
-<pre><code>我并不喜欢从自然规律映射到软件规律上，因为自然规律是如此之多，也许
-</code></pre>
+<p>  我并不喜欢从自然规律映射到软件规律上，因为自然规律是如此之多，也许</p>
 ]]></content>
   </entry>
   
@@ -38,11 +38,7 @@
     <link href="http://cokeboy.github.io/blog/2013/12/09/chang-shi-jiang-githubzuo-wei-jian-dan-de-cmsshi-yong/"/>
     <updated>2013-12-09T14:21:00+08:00</updated>
     <id>http://cokeboy.github.io/blog/2013/12/09/chang-shi-jiang-githubzuo-wei-jian-dan-de-cmsshi-yong</id>
-    <content type="html"><![CDATA[<blockquote><p>This is the first level of quoting.</p>
-
-<blockquote><p>This is nested blockquote.</p></blockquote>
-
-<p>Back to the first level.</p></blockquote>
+    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
@@ -51,7 +47,7 @@
     <link href="http://cokeboy.github.io/blog/2013/12/09/di-pian-octpressbo-ke/"/>
     <updated>2013-12-09T11:44:41+08:00</updated>
     <id>http://cokeboy.github.io/blog/2013/12/09/di-pian-octpressbo-ke</id>
-    <content type="html"><![CDATA[<h3>代码格式</h3>
+    <content type="html"><![CDATA[<h3>插入代码</h3>
 
 <figure class='code'><figcaption><span>Coffeescript Tricks</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
