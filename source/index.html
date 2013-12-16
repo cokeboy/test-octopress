@@ -3,13 +3,14 @@ layout: default
 ---
 
 <div class="blog-index">
-  {{ paginator }}
   {% assign index = true %}
   {% for post in paginator.posts %}
+  {% if post.layout == 'post' %}
   {% assign content = post.content %}
     <article>
       {% include article.html %}
     </article>
+  {% endif %}
   {% endfor %}
   <div class="pagination">
     {% if paginator.next_page %}

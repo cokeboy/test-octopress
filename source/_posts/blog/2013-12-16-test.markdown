@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "test"
+layout: product
+title: "test blog"
 date: 2013-12-16 17:16:41 +0800
 comments: true
 categories: 

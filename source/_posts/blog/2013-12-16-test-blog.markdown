@@ -1,0 +1,7 @@
+---
+layout: post
+title: "test blog"
+date: 2013-12-16 18:06:35 +0800
+comments: true
+categories: 
+---
