@@ -188,6 +188,10 @@ ERR
       result
     end
 
+    def categories_string(categories)
+     categories.join(' ')
+    end
+
   end
 
 end

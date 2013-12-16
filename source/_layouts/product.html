@@ -1,0 +1,33 @@
+---
+nav: product
+---
+
+{% include header.html %}
+<!-- CSS Page Style -->    
+<link rel="stylesheet" href="/assets/css/pages/portfolio-v2.css">
+
+</head> 
+<body> 
+
+{% include navbar.html %}  
+
+{{ content }}
+
+{% include footer.html %}
+<!-- JS Implementing Plugins -->           
+<script type="text/javascript" src="/assets/plugins/jquery.mixitup.min.js"></script> 
+<script type="text/javascript" src="/assets/js/pages/portfolio.js"></script>
+<script type="text/javascript">
+$(function(){
+    App.init();
+    Portfolio.init();
+});
+</script>
+<!--[if lt IE 9]>
+    <script src="/assets/plugins/respond.js"></script>
+<![endif]-->
+
+{% include ga.html %}
+
+</body>
+</html> 

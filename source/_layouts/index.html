@@ -1,0 +1,30 @@
+---
+nav: index
+---
+
+{% include header.html %}
+
+</head> 
+<body> 
+
+{% include navbar.html %}  
+
+{{ content }}
+
+{% include footer.html %}
+
+<script type="text/javascript">
+$(function(){
+    App.init();
+    App.initSliders();
+    Index.initParallaxSlider();
+});
+</script>
+<!--[if lt IE 9]>
+    <script src="assets/plugins/respond.js"></script>
+<![endif]-->
+
+{% include ga.html %}
+
+</body>
+</html> 
