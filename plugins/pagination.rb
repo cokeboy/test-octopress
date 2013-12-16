@@ -70,7 +70,8 @@ module Jekyll
     #
     # Returns true if pagination is enabled, false otherwise.
     def self.pagination_enabled?(config, file)
-      file.name == 'index.html' && !config['paginate'].nil? && file.content =~ /paginator\./
+      # file.name == 'index.html' && !config['paginate'].nil? && file.content =~ /paginator\./
+      true
     end
 
     # Initialize a new Pager.
